@@ -19,7 +19,7 @@ Medical Keywords Finder is designed to help researchers and medical professional
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
+git clone git@github.com:pogenechen/medKeywordsFinder.git
 cd query2kw
 ```
 
