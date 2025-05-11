@@ -4,7 +4,7 @@ A specialized tool for finding the most relevant medical keywords from questions
 
 ## Overview
 
-Medical Keywords Finder is designed to help researchers and medical professionals find the most relevant keywords from their questions to improve literature search results. By leveraging state-of-the-art deep learning models and efficient vector search techniques, it identifies the most semantically relevant medical keywords that can be used to search academic papers and medical literature.
+Medical Keywords Finder is designed to help researchers and medical professionals find the most relevant keywords from their questions to improve literature search results. By leveraging pre-trained language models, torch deep learning framework and efficient vector search techniques, it identifies the most semantically relevant medical keywords that can be used to search academic papers and medical literature.
 
 ## Features
 
